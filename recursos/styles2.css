@@ -1,0 +1,120 @@
+body {
+    font-family: Arial, sans-serif;
+    line-height: 1.5;
+    text-align: center;
+    background-color: #f2f2f2;
+}
+
+h1,
+h2,
+h3 {
+    font-weight: bold;
+    margin-bottom: 10px;
+}
+
+.datosPersonales,
+.formacion,
+.experiencia {
+    margin: 20px auto;
+    padding: 20px;
+    background-color: #fff;
+    box-shadow: 0px 0px 10px #ccc;
+    width: 80%;
+}
+
+.datosPersonales h3,
+.formacion h3,
+.experiencia h3 {
+    text-align: left;
+    margin-bottom: 20px;
+}
+
+.datosPersonales ul {
+    list-style: none;
+    text-align: left;
+}
+
+.datosPersonales li {
+    margin-bottom: 10px;
+}
+
+.formacion,
+.experiencia {
+    text-align: left;
+}
+
+.formacion li,
+.experiencia li {
+    margin-bottom: 5px;
+}
+
+
+img {
+    border-radius: 50%;
+    border: 2px solid #ccc;
+    padding: 10px;
+    margin: 20px auto;
+    display: block;
+}
+
+
+footer {
+    background-color: #333;
+    color: #fff;
+    padding: 20px;
+    margin-top: 20px;
+}
+
+footer p {
+    margin: 0;
+    text-align: center;
+}
+
+/* iconos*/
+.fa-solid {
+    color: red;
+}
+
+.fa-file-lines {
+    font-size: 25px;
+}
+
+.fa-user {
+    font-size: 25px;
+}
+
+.fa-id-card {
+    font-size: 25px;
+}
+
+.fa-earth-americas {
+    font-size: 25px;
+}
+
+.fa-calendar-days {
+    font-size: 25px;
+}
+
+.fa-map-location-dot {
+    font-size: 25px;
+}
+
+.fa-mobile-screen-button {
+    font-size: 25px;
+}
+
+.fa-envelope {
+    font-size: 25px;
+}
+
+.fa-school {
+    font-size: 25px;
+}
+
+.fa-briefcase {
+    font-size: 25px;
+}
+
+.cambio-color {
+    background-color: yellow;
+}
